@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Python Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/3IINsQpkEutPUbG8pQ.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadibnatuhin&label=Profile%20views&color=0e75b6&style=flat" alt="fahadibnatuhin" /> </p>
-
 - 🌱 I’m currently learning **Django, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FahadIbnaTuhin](https://github.com/FahadIbnaTuhin)
@@ -18,7 +16,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yourhorribledad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourhorribledad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md. fahad ibna tuhin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. fahad ibna tuhin" height="30" width="40" /></a>
 <a href="https://fb.com/fahad ibna tuhin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahad ibna tuhin" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/fit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="fit" height="30" width="40" /></a>
@@ -32,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadibnatuhin&show_icons=true&locale=en" alt="fahadibnatuhin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadibnatuhin&" alt="fahadibnatuhin" /></p>
+
