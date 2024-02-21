@@ -29,14 +29,14 @@
 
 <div align='center'>
   <img src="https://img-c.udemycdn.com/redactor/raw/2020-10-10_10-32-20-69d03d986e3001cfb40c457eede13a58.jpg" alt="GitHub Overview" width="100%">
-</div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadibnatuhin&show_icons=true&locale=en&layout=compact" alt="fahadibnatuhin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadibnatuhin&show_icons=true&locale=en" alt="fahadibnatuhin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadibnatuhin&" alt="fahadibnatuhin" /></p>
-
-Farewell!  It's been a pleasure connecting with you.
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadibnatuhin&show_icons=true&locale=en&layout=compact" alt="fahadibnatuhin" /></p>
+  
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadibnatuhin&show_icons=true&locale=en" alt="fahadibnatuhin" /></p>
+  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadibnatuhin&" alt="fahadibnatuhin" /></p>
+  
+  Farewell!  It's been a pleasure connecting with you.
 </div>
