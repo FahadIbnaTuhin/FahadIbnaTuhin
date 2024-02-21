@@ -37,6 +37,9 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadibnatuhin&show_icons=true&locale=en" alt="fahadibnatuhin" /></p>
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadibnatuhin&" alt="fahadibnatuhin" /></p>
+
   
-  Farewell!  It's been a pleasure connecting with you.
+  <p><img src="https://i.giphy.com/yEWggzPCR9P9e4541X.webp" alt="Thank You Gif" width="100%"></p>
+
+  Thank you for visiting! Looking forward to future collaborations. Feel free to reach out for any inquiries or discussions.
 </div>
