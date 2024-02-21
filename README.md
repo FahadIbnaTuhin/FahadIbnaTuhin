@@ -30,12 +30,23 @@
 <div align='center'>
   <img src="https://img-c.udemycdn.com/redactor/raw/2020-10-10_10-32-20-69d03d986e3001cfb40c457eede13a58.jpg" alt="GitHub Overview" width="100%">
 
+  <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadibnatuhin&show_icons=true&locale=en&layout=compact" alt="fahadibnatuhin" /></p>
+  
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadibnatuhin&show_icons=true&locale=en" alt="fahadibnatuhin" /></p> -->
+
+<div style="display: grid; grid-template-columns: 1fr; gap: 5px; text-align: center;">
+
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadibnatuhin&show_icons=true&locale=en&layout=compact" alt="fahadibnatuhin">
+  </div>
+
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=fahadibnatuhin&show_icons=true&locale=en" alt="fahadibnatuhin">
+  </div>
+
+</div>
 
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadibnatuhin&show_icons=true&locale=en&layout=compact" alt="fahadibnatuhin" /></p>
-  
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadibnatuhin&show_icons=true&locale=en" alt="fahadibnatuhin" /></p>
-  
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadibnatuhin&" alt="fahadibnatuhin" /></p>
 
   Thank you for visiting! Looking forward to future collaborations. Feel free to reach out for any inquiries or discussions.
