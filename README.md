@@ -39,7 +39,7 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadibnatuhin&" alt="fahadibnatuhin" /></p>
 
   
-  <p><img src="https://i.giphy.com/yEWggzPCR9P9e4541X.webp" alt="Thank You Gif" width="100%"></p>
+  <p><img src="https://i.giphy.com/yEWggzPCR9P9e4541X.webp" alt="Thank You Gif" width="100%" height="50%"></p>
 
   Thank you for visiting! Looking forward to future collaborations. Feel free to reach out for any inquiries or discussions.
 </div>
