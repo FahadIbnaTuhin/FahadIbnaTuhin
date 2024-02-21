@@ -37,7 +37,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadibnatuhin&" alt="fahadibnatuhin" /></p>
 
-![GitHub Overview GIF]([https://img-c.udemycdn.com/redactor/raw/2020-10-16_17-01-51-5186292464bbe111735684db09cda03a.gif](https://img-c.udemycdn.com/redactor/raw/2020-10-16_17-01-51-5186292464bbe111735684db09cda03a.gif)https://img-c.udemycdn.com/redactor/raw/2020-10-16_17-01-51-5186292464bbe111735684db09cda03a.gif)
+![GitHub Overview GIF](https://img-c.udemycdn.com/redactor/raw/2020-10-16_17-01-51-5186292464bbe111735684db09cda03a.gif)
 
 Farewell!  It's been a pleasure connecting with you.
 </div>
