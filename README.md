@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Md. Fahad Ibna Tuhin</h1>
-<h3 align="center">A passionate Python Developer from Bangladesh</h3>
+<h3 align="center">A passionate Competitive Programmer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/3IINsQpkEutPUbG8pQ.webp">
 
-- 🌱 I’m currently learning **Django, Python**
+- 🌱 I’m currently learning **Competitive Programming, C++, Django, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FahadIbnaTuhin](https://github.com/FahadIbnaTuhin)
 
-- 💬 Ask me about **Django, Flask, Python**
+- 💬 Ask me about **Competitive Programming, C++, Django, Flask, Python**
 
 - 📫 How to reach me **fahadtuhin2@yahoo.com**
 
