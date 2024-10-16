@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning **Competitive Programming, C++, Django, Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/FahadIbnaTuhin](https://github.com/FahadIbnaTuhin)
+<!-- 👨‍💻 All of my projects are available at [https://github.com/FahadIbnaTuhin](https://github.com/FahadIbnaTuhin) -->
 
 - 💬 Ask me about **Competitive Programming, C++, Django, Flask, Python**
 
 - 📫 How to reach me **fahadtuhin2@yahoo.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mdfahadibnatuhin/](https://www.linkedin.com/in/mdfahadibnatuhin/)
+<!-- 📄 Know about my experiences [https://www.linkedin.com/in/mdfahadibnatuhin/](https://www.linkedin.com/in/mdfahadibnatuhin/)  -->
 
 - ⚡ Fun fact **I am funny**
 
