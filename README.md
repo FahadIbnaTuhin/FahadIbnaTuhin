@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Fahad Ibna Tuhin</h1>
+I'm<h1 align="center">Hi 👋, I'm Md. Fahad Ibna Tuhin</h1>
 <h3 align="center">A passionate Competitive Programmer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/3IINsQpkEutPUbG8pQ.webp">
 
@@ -51,5 +51,5 @@
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadibnatuhin&" alt="fahadibnatuhin" /></p>
 
-  Thank you for visiting! Looking forward to future collaborations. Feel free to reach out for any inquiries or discussions.
+  Thank you for visiting! Looking forward to future collaborations. Feel free to reach out for any inquiries or discussions
 </div>
