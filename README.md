@@ -12,7 +12,7 @@ I'm<h1 align="center">Hi 👋, I'm Md. Fahad Ibna Tuhin</h1>
 
 <!-- 📄 Know about my experiences [https://www.linkedin.com/in/mdfahadibnatuhin/](https://www.linkedin.com/in/mdfahadibnatuhin/)  -->
 
-- ⚡ Fun fact: **I am funny**
+- ⚡ Fun fact **I am funny**
 
 <!--
 <h3 align="left">Connect with me:</h3>
