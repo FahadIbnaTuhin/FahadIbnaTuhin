@@ -1,5 +1,5 @@
-I'm<h1 align="center">Hi 👋, I'm Md. Fahad Ibna Tuhin</h1>
-<h3 align="center">A passionate Competitive Programmer from Bangladesh</h3>
+I'm<h1 align="center">Hi 👋</h1>
+<h3 align="center">A passionate Programmer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/3IINsQpkEutPUbG8pQ.webp">
 
 - 🌱 I’m currently learning **Competitive Programming, C++, Django, Python**
