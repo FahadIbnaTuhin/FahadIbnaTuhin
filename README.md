@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+I'm<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/3IINsQpkEutPUbG8pQ.webp">
 
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Competitive Programming, C++, Django, Flask, Python**
 
-<!-- 📫 How to reach me **fahadtuhin2@yahoo.com**  -->
+<!-- 📫 How to reach me: **fahadtuhin2@yahoo.com**  -->
 
 <!-- 📄 Know about my experiences [https://www.linkedin.com/in/mdfahadibnatuhin/](https://www.linkedin.com/in/mdfahadibnatuhin/)  -->
 
