@@ -6,7 +6,7 @@ I'm<h1 align="center">Hi 👋</h1>
 
 <!-- 👨‍💻 All of my projects are available at [https://github.com/FahadIbnaTuhin](https://github.com/FahadIbnaTuhin) -->
 
-- 💬 Ask me about **Competitive Programming, C++, Django, Flask, Python**
+- 💬 Ask me about **Competitive Programming, C++, Django, Flask, Python, C**
 
 <!-- 📫 How to reach me: **fahadtuhin2@yahoo.com**  -->
 
