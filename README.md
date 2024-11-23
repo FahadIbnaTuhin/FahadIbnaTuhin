@@ -2,7 +2,7 @@ I'm<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/3IINsQpkEutPUbG8pQ.webp">
 
-- 🌱 I’m currently learning **Competitive Programming, C++, Django, Python**
+- 🌱 I’m currently learning **Competitive Programming, C++, Django, Python,**
 
 <!-- 👨‍💻 All of my projects are available at [https://github.com/FahadIbnaTuhin](https://github.com/FahadIbnaTuhin) -->
 
